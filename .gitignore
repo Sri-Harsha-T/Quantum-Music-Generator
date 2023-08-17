@@ -1,0 +1,10 @@
+*.pt
+*.pptx
+*.hdf5
+*.c
+*.zip
+*.pdf
+*.exe
+Classic-AI-master/*
+data/*
+midi_songs/*
